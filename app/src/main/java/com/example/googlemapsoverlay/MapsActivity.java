@@ -50,7 +50,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         // Add a marker in Sydney and move the camera
         mMap.addMarker(new MarkerOptions()
                 .position(Perth)
-                .title("Perth")
+                .title("PERTH")
                 .icon(BitmapDescriptorFactory.fromResource(R.drawable.marker))
                 .snippet("Population: 4,137,400"));
 
